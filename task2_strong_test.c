@@ -20,7 +20,7 @@
 #endif
 
 #define BUF_CAP (1024 * 1024)
-#define RESIDENT_TOLERANCE 8UL
+#define RESIDENT_TOLERANCE 128UL
 
 struct addr_space_info {
     unsigned long num_vmas;
