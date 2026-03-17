@@ -1,4 +1,3 @@
-nano  test_cow_info.c
 gcc -o test_cow_info test_cow_info.c
 sudo ./test_cow_info
 
